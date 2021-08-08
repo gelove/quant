@@ -1,0 +1,18 @@
+{
+  "stream": "btcusdt@depth10",
+  "data": {
+    "lastUpdateId": 1228645, // Last update ID
+    "bids": [ // Bids to be updated
+      [
+        "41275.26000000", // Price level to be updated
+        "0.00240000" // Quantity
+      ]
+    ],
+    "asks": [ // Asks to be updated
+      [
+        "41453.97000000", // Price level to be updated
+        "0.00241100" // Quantity
+      ]
+    ]
+  }
+}

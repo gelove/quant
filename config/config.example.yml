@@ -1,0 +1,12 @@
+binance:
+  BaseUrl: "https://testnet.binance.vision/api/v3/"
+  BaseWSUrl: "wss://testnet.binance.vision/"
+  ApiKey: "YgYexhRltCuvOT3Emm8j4nxrHoazNXwAVty2wzSwp6xqVAwADCnG6aCRKThVV4NU" # test
+  SecretKey: "YgwgXx7kBQFIjw49CINTtf9Fz7gaRJwxuVIXx9rsyGgAHKprKsQL32RTRiwNnTeZ" # test
+  QuoteAsset: "USDT"
+  Assets:
+    - BNB
+    - BTC
+  Point: 15 # 网格区间百分比点数
+  Amount: 1000
+  MaxOpenOrders: 4

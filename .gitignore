@@ -1,0 +1,16 @@
+# IDE configs
+.idea
+.vscode
+.history
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# MacOS
+*.DS_Store
+
+quant.db
